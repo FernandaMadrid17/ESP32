@@ -1,2 +1,2 @@
-# Prácgtica 4
+# Práctica 4
 - Repositorio clonado
